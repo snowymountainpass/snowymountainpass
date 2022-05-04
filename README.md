@@ -32,3 +32,5 @@ Outside of coding I enjoy:
 - gardening :leaves:
 - watching movies :clapper:
 - running :running:
+
+📫 How to reach me: vasilecipriangabriel92@gmail.com
