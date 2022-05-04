@@ -11,7 +11,7 @@
 <code><img height="35" src="https://github.com/snowymountainpass/snowymountainpass/blob/b8327fb675790dacab9562b029b263ba7a482bff/html5-logo.png"></code>
 <code><img height="35" src="https://github.com/snowymountainpass/snowymountainpass/blob/2ae47b402e132b30a46cc2227a3c38d4c1e2779d/CSS3.png"></code>
 <code><img height="40" src="https://github.com/snowymountainpass/snowymountainpass/blob/d75f32984a60658e8d83151bd1a84dda8535fb47/Tailwind.png"></code>
-<code><img height="40" src="https://github.com/snowymountainpass/snowymountainpass/blob/2a815369245c9288efedcc162bc1f7d7af33a264/React.png"></code>
+<code><img height="35" src="https://github.com/snowymountainpass/snowymountainpass/blob/2a815369245c9288efedcc162bc1f7d7af33a264/React.png"></code>
 
 <br />
 
