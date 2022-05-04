@@ -3,15 +3,13 @@
  I’m a Fullstack Developer living in Bucharest, Romania. I have experience working with both backend and frontend technologies, such as: Java, Spring Boot, Python, PostgreSQL, Javascript, Tailwind and React. As a recent Codecool graduate, I'm looking to learn new technologies and collaborate on exciting projects.
 
 ### Skill set:
-<code><img height="40" src="https://github.com/snowymountainpass/snowymountainpass/blob/8bea15548dab1d23a9d3c87596552a4c19012d8b/Java.png"></code>
-<code><img height="40" src="https://github.com/snowymountainpass/snowymountainpass/blob/abda164080f6853bc140007164a688f63616cb45/Java%20Spring%20Boot.png"></code>
-<code><img height="40" src="https://github.com/snowymountainpass/snowymountainpass/blob/f6cf8997c04fce38d98dbeeeeb526e64b6a0d07b/Python.png"></code>
-<code><img height="40" src="https://github.com/snowymountainpass/snowymountainpass/blob/5628652fbcb8263602bc14834613765e4fce16ee/PostgreSQL.png"></code>
-<code><img height="40" src="https://github.com/snowymountainpass/snowymountainpass/blob/8b7f1277cca80c3d9c1c2faf41d92be4e84c91c6/Javascript.png"></code>
-<code><img height="35" src="https://github.com/snowymountainpass/snowymountainpass/blob/b8327fb675790dacab9562b029b263ba7a482bff/html5-logo.png"></code>
-<code><img height="35" src="https://github.com/snowymountainpass/snowymountainpass/blob/2ae47b402e132b30a46cc2227a3c38d4c1e2779d/CSS3.png"></code>
-<code><img height="40" src="https://github.com/snowymountainpass/snowymountainpass/blob/d75f32984a60658e8d83151bd1a84dda8535fb47/Tailwind.png"></code>
-<code><img height="35" src="https://github.com/snowymountainpass/snowymountainpass/blob/2a815369245c9288efedcc162bc1f7d7af33a264/React.png"></code>
+#### Backend: 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Frontend: 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 
 <br />
 
