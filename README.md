@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 I'm Ciprian!
 
-<!--
-**snowymountainpass/snowymountainpass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I’m a Fullstack Developer living in Bucharest, Romania. I have experience working with both backend and frontend technologies, such as: Java, Python, SQL, Javascript and React. As a recent Codecool graduate, I'm looking to learn new technologies and collaborate on exciting projects.
 
-Here are some ideas to get you started:
+### Skill set:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+
+:computer:I'm currently working on:
+- Creating a new company website for a company
+<br />
+
+:books:I want to learn:
+- Microservices design patterns
+- Apache Hadoop
+
+👯 I’m looking to collaborate on backend heavy projects.
+
+Outside of coding I enjoy:
+- reading sci-fi novels :blue_book:
+- gardening :leaves:
+- watching movies :clapper:
+- running :running:
